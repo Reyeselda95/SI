@@ -1,0 +1,16 @@
+1.INTRODUCCIÓN
+2. XOR
+	- pseudocódigo backpropagation
+	- funcionamiento para 1 iteración del algoritmo
+	- gráfica evolucion pesos y bias con números de iteraciones
+	- gráfica evolución error con número de iteraciones
+	- fragmento de código
+	- pruebas
+3. RECONOCIMIENTO DE DÍGITOS
+	- diseñar una función para determinar la neurona con máxima activación
+	- testAccuracy
+	- experimentación
+	- forma aprendizaje
+	- número de neuronas en la capa oculta
+
+4.BIBLIOGRAFÍA

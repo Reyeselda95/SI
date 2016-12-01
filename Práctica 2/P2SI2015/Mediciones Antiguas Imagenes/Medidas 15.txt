@@ -1,0 +1,1325 @@
+run:
+Loading MNIST data...
+% de acierto: 11.0 (1135 ok;8865 error)
+Training network...
+1) Network error: 0.5954056770464848
+Train: % de acierto: 11.0 (6742 ok;53258 error)
+Test: % de acierto: 11.0 (1135 ok;8865 error)
+2) Network error: 0.45125112652483446
+Train: % de acierto: 11.0 (6742 ok;53258 error)
+Test: % de acierto: 11.0 (1135 ok;8865 error)
+3) Network error: 0.45002734605498995
+Train: % de acierto: 11.0 (6742 ok;53258 error)
+Test: % de acierto: 11.0 (1135 ok;8865 error)
+4) Network error: 0.4497608491352309
+Train: % de acierto: 11.0 (6742 ok;53258 error)
+Test: % de acierto: 11.0 (1135 ok;8865 error)
+5) Network error: 0.4495075199367645
+Train: % de acierto: 11.0 (6742 ok;53258 error)
+Test: % de acierto: 11.0 (1135 ok;8865 error)
+6) Network error: 0.4492094665748078
+Train: % de acierto: 11.0 (6742 ok;53258 error)
+Test: % de acierto: 11.0 (1135 ok;8865 error)
+7) Network error: 0.4488416802919031
+Train: % de acierto: 11.0 (6813 ok;53187 error)
+Test: % de acierto: 11.0 (1141 ok;8859 error)
+8) Network error: 0.44837346897675856
+Train: % de acierto: 13.0 (7945 ok;52055 error)
+Test: % de acierto: 13.0 (1354 ok;8646 error)
+9) Network error: 0.44776133886939695
+Train: % de acierto: 19.0 (11462 ok;48538 error)
+Test: % de acierto: 19.0 (1924 ok;8076 error)
+10) Network error: 0.44694335921814826
+Train: % de acierto: 24.0 (14904 ok;45096 error)
+Test: % de acierto: 25.0 (2545 ok;7455 error)
+11) Network error: 0.4458333696419277
+Train: % de acierto: 29.0 (17880 ok;42120 error)
+Test: % de acierto: 30.0 (3047 ok;6953 error)
+12) Network error: 0.4443135205834421
+Train: % de acierto: 33.0 (20153 ok;39847 error)
+Test: % de acierto: 33.0 (3378 ok;6622 error)
+13) Network error: 0.44222315418977964
+Train: % de acierto: 36.0 (21634 ok;38366 error)
+Test: % de acierto: 35.0 (3577 ok;6423 error)
+14) Network error: 0.43935243982684863
+Train: % de acierto: 37.0 (22605 ok;37395 error)
+Test: % de acierto: 37.0 (3707 ok;6293 error)
+15) Network error: 0.4354591257273867
+Train: % de acierto: 38.0 (23177 ok;36823 error)
+Test: % de acierto: 37.0 (3797 ok;6203 error)
+16) Network error: 0.43031253231047767
+Train: % de acierto: 39.0 (23512 ok;36488 error)
+Test: % de acierto: 38.0 (3855 ok;6145 error)
+17) Network error: 0.4237764745605993
+Train: % de acierto: 39.0 (23865 ok;36135 error)
+Test: % de acierto: 39.0 (3905 ok;6095 error)
+18) Network error: 0.41592058933789894
+Train: % de acierto: 40.0 (24322 ok;35678 error)
+Test: % de acierto: 39.0 (3987 ok;6013 error)
+19) Network error: 0.40702049662264095
+Train: % de acierto: 41.0 (25004 ok;34996 error)
+Test: % de acierto: 41.0 (4104 ok;5896 error)
+20) Network error: 0.3974324311055036
+Train: % de acierto: 43.0 (25880 ok;34120 error)
+Test: % de acierto: 42.0 (4244 ok;5756 error)
+21) Network error: 0.3874804379294742
+Train: % de acierto: 44.0 (26886 ok;33114 error)
+Test: % de acierto: 44.0 (4436 ok;5564 error)
+22) Network error: 0.3773931443466258
+Train: % de acierto: 46.0 (28020 ok;31980 error)
+Test: % de acierto: 46.0 (4623 ok;5377 error)
+23) Network error: 0.36729998114056295
+Train: % de acierto: 48.0 (29123 ok;30877 error)
+Test: % de acierto: 48.0 (4808 ok;5192 error)
+24) Network error: 0.3572798372272375
+Train: % de acierto: 50.0 (30210 ok;29790 error)
+Test: % de acierto: 49.0 (4974 ok;5026 error)
+25) Network error: 0.3474214004033215
+Train: % de acierto: 51.0 (31163 ok;28837 error)
+Test: % de acierto: 51.0 (5141 ok;4859 error)
+26) Network error: 0.3378454658312375
+Train: % de acierto: 53.0 (32084 ok;27916 error)
+Test: % de acierto: 53.0 (5317 ok;4683 error)
+27) Network error: 0.3286711349902057
+Train: % de acierto: 54.0 (32913 ok;27087 error)
+Test: % de acierto: 54.0 (5470 ok;4530 error)
+28) Network error: 0.31997420800538734
+Train: % de acierto: 56.0 (33789 ok;26211 error)
+Test: % de acierto: 56.0 (5629 ok;4371 error)
+29) Network error: 0.3117799865340296
+Train: % de acierto: 57.0 (34608 ok;25392 error)
+Test: % de acierto: 57.0 (5772 ok;4228 error)
+30) Network error: 0.3040767864895992
+Train: % de acierto: 58.0 (35344 ok;24656 error)
+Test: % de acierto: 59.0 (5943 ok;4057 error)
+31) Network error: 0.2968305389774452
+Train: % de acierto: 60.0 (36132 ok;23868 error)
+Test: % de acierto: 60.0 (6073 ok;3927 error)
+32) Network error: 0.2899960161312573
+Train: % de acierto: 61.0 (36948 ok;23052 error)
+Test: % de acierto: 62.0 (6204 ok;3796 error)
+33) Network error: 0.28352474481381956
+Train: % de acierto: 62.0 (37739 ok;22261 error)
+Test: % de acierto: 63.0 (6336 ok;3664 error)
+34) Network error: 0.27736992207119526
+Train: % de acierto: 64.0 (38514 ok;21486 error)
+Test: % de acierto: 64.0 (6463 ok;3537 error)
+35) Network error: 0.2714890420394466
+Train: % de acierto: 65.0 (39260 ok;20740 error)
+Test: % de acierto: 65.0 (6579 ok;3421 error)
+36) Network error: 0.2658451744326165
+Train: % de acierto: 66.0 (40026 ok;19974 error)
+Test: % de acierto: 66.0 (6696 ok;3304 error)
+37) Network error: 0.2604076351081839
+Train: % de acierto: 67.0 (40777 ok;19223 error)
+Test: % de acierto: 68.0 (6830 ok;3170 error)
+38) Network error: 0.25515237381277367
+Train: % de acierto: 69.0 (41541 ok;18459 error)
+Test: % de acierto: 69.0 (6959 ok;3041 error)
+39) Network error: 0.2500620424340298
+Train: % de acierto: 70.0 (42253 ok;17747 error)
+Test: % de acierto: 70.0 (7081 ok;2919 error)
+40) Network error: 0.24512555998590654
+Train: % de acierto: 71.0 (42955 ok;17045 error)
+Test: % de acierto: 71.0 (7191 ok;2809 error)
+41) Network error: 0.24033707608261826
+Train: % de acierto: 72.0 (43629 ok;16371 error)
+Test: % de acierto: 72.0 (7296 ok;2704 error)
+42) Network error: 0.23569444215204266
+Train: % de acierto: 73.0 (44281 ok;15719 error)
+Test: % de acierto: 74.0 (7410 ok;2590 error)
+43) Network error: 0.23119747371434846
+Train: % de acierto: 74.0 (44918 ok;15082 error)
+Test: % de acierto: 75.0 (7504 ok;2496 error)
+44) Network error: 0.22684633514918054
+Train: % de acierto: 75.0 (45517 ok;14483 error)
+Test: % de acierto: 76.0 (7620 ok;2380 error)
+45) Network error: 0.22264030639620294
+Train: % de acierto: 76.0 (46081 ok;13919 error)
+Test: % de acierto: 77.0 (7720 ok;2280 error)
+46) Network error: 0.21857705881173084
+Train: % de acierto: 77.0 (46606 ok;13394 error)
+Test: % de acierto: 78.0 (7814 ok;2186 error)
+47) Network error: 0.2146524354081007
+Train: % de acierto: 78.0 (47120 ok;12880 error)
+Test: % de acierto: 78.0 (7886 ok;2114 error)
+48) Network error: 0.21086063685779483
+Train: % de acierto: 79.0 (47553 ok;12447 error)
+Test: % de acierto: 79.0 (7967 ok;2033 error)
+49) Network error: 0.20719467154449805
+Train: % de acierto: 80.0 (48020 ok;11980 error)
+Test: % de acierto: 80.0 (8048 ok;1952 error)
+50) Network error: 0.2036469283435365
+Train: % de acierto: 80.0 (48404 ok;11596 error)
+Test: % de acierto: 81.0 (8110 ok;1890 error)
+51) Network error: 0.20020975748232217
+Train: % de acierto: 81.0 (48735 ok;11265 error)
+Test: % de acierto: 81.0 (8186 ok;1814 error)
+52) Network error: 0.19687598033952267
+Train: % de acierto: 81.0 (49037 ok;10963 error)
+Test: % de acierto: 82.0 (8238 ok;1762 error)
+53) Network error: 0.19363928153749208
+Train: % de acierto: 82.0 (49317 ok;10683 error)
+Test: % de acierto: 82.0 (8289 ok;1711 error)
+54) Network error: 0.19049446117495175
+Train: % de acierto: 82.0 (49561 ok;10439 error)
+Test: % de acierto: 83.0 (8335 ok;1665 error)
+55) Network error: 0.1874375419613854
+Train: % de acierto: 82.0 (49774 ok;10226 error)
+Test: % de acierto: 83.0 (8377 ok;1623 error)
+56) Network error: 0.18446573866172294
+Train: % de acierto: 83.0 (49969 ok;10031 error)
+Test: % de acierto: 84.0 (8405 ok;1595 error)
+57) Network error: 0.18157730902330213
+Train: % de acierto: 83.0 (50129 ok;9871 error)
+Test: % de acierto: 84.0 (8429 ok;1571 error)
+58) Network error: 0.178771317270727
+Train: % de acierto: 83.0 (50299 ok;9701 error)
+Test: % de acierto: 84.0 (8462 ok;1538 error)
+59) Network error: 0.17604735105985794
+Train: % de acierto: 84.0 (50436 ok;9564 error)
+Test: % de acierto: 84.0 (8489 ok;1511 error)
+60) Network error: 0.1734052363763164
+Train: % de acierto: 84.0 (50574 ok;9426 error)
+Test: % de acierto: 85.0 (8515 ok;1485 error)
+61) Network error: 0.17084478946393586
+Train: % de acierto: 84.0 (50711 ok;9289 error)
+Test: % de acierto: 85.0 (8532 ok;1468 error)
+62) Network error: 0.16836563150973982
+Train: % de acierto: 84.0 (50844 ok;9156 error)
+Test: % de acierto: 85.0 (8554 ok;1446 error)
+63) Network error: 0.16596707508650185
+Train: % de acierto: 84.0 (50948 ok;9052 error)
+Test: % de acierto: 85.0 (8569 ok;1431 error)
+64) Network error: 0.16364807672156298
+Train: % de acierto: 85.0 (51071 ok;8929 error)
+Test: % de acierto: 85.0 (8586 ok;1414 error)
+65) Network error: 0.16140724092565176
+Train: % de acierto: 85.0 (51176 ok;8824 error)
+Test: % de acierto: 86.0 (8602 ok;1398 error)
+66) Network error: 0.1592428581033095
+Train: % de acierto: 85.0 (51255 ok;8745 error)
+Test: % de acierto: 86.0 (8625 ok;1375 error)
+67) Network error: 0.15715296035222157
+Train: % de acierto: 85.0 (51320 ok;8680 error)
+Test: % de acierto: 86.0 (8644 ok;1356 error)
+68) Network error: 0.15513538296747054
+Train: % de acierto: 85.0 (51407 ok;8593 error)
+Test: % de acierto: 86.0 (8659 ok;1341 error)
+69) Network error: 0.1531878236644884
+Train: % de acierto: 85.0 (51490 ok;8510 error)
+Test: % de acierto: 86.0 (8665 ok;1335 error)
+70) Network error: 0.1513078950927898
+Train: % de acierto: 85.0 (51570 ok;8430 error)
+Test: % de acierto: 86.0 (8674 ok;1326 error)
+71) Network error: 0.14949316878619842
+Train: % de acierto: 86.0 (51653 ok;8347 error)
+Test: % de acierto: 86.0 (8681 ok;1319 error)
+72) Network error: 0.14774121033532744
+Train: % de acierto: 86.0 (51721 ok;8279 error)
+Test: % de acierto: 86.0 (8691 ok;1309 error)
+73) Network error: 0.1460496064848581
+Train: % de acierto: 86.0 (51792 ok;8208 error)
+Test: % de acierto: 87.0 (8703 ok;1297 error)
+74) Network error: 0.14441598527962368
+Train: % de acierto: 86.0 (51835 ok;8165 error)
+Test: % de acierto: 87.0 (8710 ok;1290 error)
+75) Network error: 0.14283803049751287
+Train: % de acierto: 86.0 (51896 ok;8104 error)
+Test: % de acierto: 87.0 (8723 ok;1277 error)
+76) Network error: 0.14131349154842154
+Train: % de acierto: 86.0 (51955 ok;8045 error)
+Test: % de acierto: 87.0 (8729 ok;1271 error)
+77) Network error: 0.13984018987582778
+Train: % de acierto: 86.0 (51999 ok;8001 error)
+Test: % de acierto: 87.0 (8734 ok;1266 error)
+78) Network error: 0.13841602272513934
+Train: % de acierto: 86.0 (52047 ok;7953 error)
+Test: % de acierto: 87.0 (8747 ok;1253 error)
+79) Network error: 0.13703896497211177
+Train: % de acierto: 86.0 (52099 ok;7901 error)
+Test: % de acierto: 87.0 (8751 ok;1249 error)
+80) Network error: 0.13570706955107292
+Train: % de acierto: 86.0 (52159 ok;7841 error)
+Test: % de acierto: 87.0 (8764 ok;1236 error)
+81) Network error: 0.13441846689275924
+Train: % de acierto: 87.0 (52218 ok;7782 error)
+Test: % de acierto: 87.0 (8773 ok;1227 error)
+82) Network error: 0.133171363676489
+Train: % de acierto: 87.0 (52267 ok;7733 error)
+Test: % de acierto: 87.0 (8777 ok;1223 error)
+83) Network error: 0.13196404111915502
+Train: % de acierto: 87.0 (52324 ok;7676 error)
+Test: % de acierto: 87.0 (8783 ok;1217 error)
+84) Network error: 0.13079485296077062
+Train: % de acierto: 87.0 (52382 ok;7618 error)
+Test: % de acierto: 87.0 (8790 ok;1210 error)
+85) Network error: 0.12966222325964885
+Train: % de acierto: 87.0 (52422 ok;7578 error)
+Test: % de acierto: 87.0 (8799 ok;1201 error)
+86) Network error: 0.1285646440762357
+Train: % de acierto: 87.0 (52456 ok;7544 error)
+Test: % de acierto: 88.0 (8802 ok;1198 error)
+87) Network error: 0.12750067310020025
+Train: % de acierto: 87.0 (52499 ok;7501 error)
+Test: % de acierto: 88.0 (8813 ok;1187 error)
+88) Network error: 0.12646893125816255
+Train: % de acierto: 87.0 (52526 ok;7474 error)
+Test: % de acierto: 88.0 (8817 ok;1183 error)
+89) Network error: 0.12546810032759878
+Train: % de acierto: 87.0 (52557 ok;7443 error)
+Test: % de acierto: 88.0 (8824 ok;1176 error)
+90) Network error: 0.12449692057420635
+Train: % de acierto: 87.0 (52606 ok;7394 error)
+Test: % de acierto: 88.0 (8826 ok;1174 error)
+91) Network error: 0.1235541884245901
+Train: % de acierto: 87.0 (52629 ok;7371 error)
+Test: % de acierto: 88.0 (8832 ok;1168 error)
+92) Network error: 0.12263875418246137
+Train: % de acierto: 87.0 (52667 ok;7333 error)
+Test: % de acierto: 88.0 (8841 ok;1159 error)
+93) Network error: 0.121749519794093
+Train: % de acierto: 87.0 (52695 ok;7305 error)
+Test: % de acierto: 88.0 (8845 ok;1155 error)
+94) Network error: 0.12088543666725508
+Train: % de acierto: 87.0 (52730 ok;7270 error)
+Test: % de acierto: 88.0 (8849 ok;1151 error)
+95) Network error: 0.1200455035467775
+Train: % de acierto: 87.0 (52768 ok;7232 error)
+Test: % de acierto: 88.0 (8855 ok;1145 error)
+96) Network error: 0.11922876444919517
+Train: % de acierto: 87.0 (52799 ok;7201 error)
+Test: % de acierto: 88.0 (8860 ok;1140 error)
+97) Network error: 0.1184343066585156
+Train: % de acierto: 88.0 (52828 ok;7172 error)
+Test: % de acierto: 88.0 (8864 ok;1136 error)
+98) Network error: 0.11766125878474185
+Train: % de acierto: 88.0 (52857 ok;7143 error)
+Test: % de acierto: 88.0 (8870 ok;1130 error)
+99) Network error: 0.11690878888655555
+Train: % de acierto: 88.0 (52883 ok;7117 error)
+Test: % de acierto: 88.0 (8877 ok;1123 error)
+100) Network error: 0.1161761026592563
+Train: % de acierto: 88.0 (52900 ok;7100 error)
+Test: % de acierto: 88.0 (8886 ok;1114 error)
+101) Network error: 0.11546244168884869
+Train: % de acierto: 88.0 (52934 ok;7066 error)
+Test: % de acierto: 88.0 (8889 ok;1111 error)
+102) Network error: 0.11476708177283353
+Train: % de acierto: 88.0 (52957 ok;7043 error)
+Test: % de acierto: 88.0 (8893 ok;1107 error)
+103) Network error: 0.11408933130801426
+Train: % de acierto: 88.0 (52987 ok;7013 error)
+Test: % de acierto: 88.0 (8893 ok;1107 error)
+104) Network error: 0.11342852974525885
+Train: % de acierto: 88.0 (53001 ok;6999 error)
+Test: % de acierto: 88.0 (8893 ok;1107 error)
+105) Network error: 0.11278404611082997
+Train: % de acierto: 88.0 (53024 ok;6976 error)
+Test: % de acierto: 88.0 (8896 ok;1104 error)
+106) Network error: 0.1121552775935471
+Train: % de acierto: 88.0 (53052 ok;6948 error)
+Test: % de acierto: 89.0 (8902 ok;1098 error)
+107) Network error: 0.11154164819667478
+Train: % de acierto: 88.0 (53072 ok;6928 error)
+Test: % de acierto: 89.0 (8903 ok;1097 error)
+108) Network error: 0.11094260745313317
+Train: % de acierto: 88.0 (53089 ok;6911 error)
+Test: % de acierto: 89.0 (8904 ok;1096 error)
+109) Network error: 0.11035762920225782
+Train: % de acierto: 88.0 (53119 ok;6881 error)
+Test: % de acierto: 89.0 (8907 ok;1093 error)
+110) Network error: 0.10978621042613793
+Train: % de acierto: 88.0 (53131 ok;6869 error)
+Test: % de acierto: 89.0 (8912 ok;1088 error)
+111) Network error: 0.1092278701432752
+Train: % de acierto: 88.0 (53155 ok;6845 error)
+Test: % de acierto: 89.0 (8916 ok;1084 error)
+112) Network error: 0.10868214835719979
+Train: % de acierto: 88.0 (53180 ok;6820 error)
+Test: % de acierto: 89.0 (8918 ok;1082 error)
+113) Network error: 0.10814860505750797
+Train: % de acierto: 88.0 (53194 ok;6806 error)
+Test: % de acierto: 89.0 (8916 ok;1084 error)
+114) Network error: 0.10762681927080871
+Train: % de acierto: 88.0 (53211 ok;6789 error)
+Test: % de acierto: 89.0 (8921 ok;1079 error)
+115) Network error: 0.1071163881589552
+Train: % de acierto: 88.0 (53225 ok;6775 error)
+Test: % de acierto: 89.0 (8924 ok;1076 error)
+116) Network error: 0.10661692616208947
+Train: % de acierto: 88.0 (53243 ok;6757 error)
+Test: % de acierto: 89.0 (8922 ok;1078 error)
+117) Network error: 0.10612806418402888
+Train: % de acierto: 88.0 (53261 ok;6739 error)
+Test: % de acierto: 89.0 (8925 ok;1075 error)
+118) Network error: 0.10564944881766292
+Train: % de acierto: 88.0 (53283 ok;6717 error)
+Test: % de acierto: 89.0 (8928 ok;1072 error)
+119) Network error: 0.10518074160814507
+Train: % de acierto: 88.0 (53295 ok;6705 error)
+Test: % de acierto: 89.0 (8928 ok;1072 error)
+120) Network error: 0.10472161835179239
+Train: % de acierto: 88.0 (53300 ok;6700 error)
+Test: % de acierto: 89.0 (8928 ok;1072 error)
+121) Network error: 0.10427176842880694
+Train: % de acierto: 88.0 (53314 ok;6686 error)
+Test: % de acierto: 89.0 (8933 ok;1067 error)
+122) Network error: 0.10383089416795481
+Train: % de acierto: 88.0 (53326 ok;6674 error)
+Test: % de acierto: 89.0 (8934 ok;1066 error)
+123) Network error: 0.10339871024161731
+Train: % de acierto: 88.0 (53345 ok;6655 error)
+Test: % de acierto: 89.0 (8938 ok;1062 error)
+124) Network error: 0.10297494308965377
+Train: % de acierto: 88.0 (53363 ok;6637 error)
+Test: % de acierto: 89.0 (8940 ok;1060 error)
+125) Network error: 0.1025593303706827
+Train: % de acierto: 88.0 (53382 ok;6618 error)
+Test: % de acierto: 89.0 (8945 ok;1055 error)
+126) Network error: 0.10215162043944125
+Train: % de acierto: 89.0 (53404 ok;6596 error)
+Test: % de acierto: 89.0 (8945 ok;1055 error)
+127) Network error: 0.10175157184904943
+Train: % de acierto: 89.0 (53420 ok;6580 error)
+Test: % de acierto: 89.0 (8945 ok;1055 error)
+128) Network error: 0.1013589528770206
+Train: % de acierto: 89.0 (53430 ok;6570 error)
+Test: % de acierto: 89.0 (8947 ok;1053 error)
+129) Network error: 0.10097354107394034
+Train: % de acierto: 89.0 (53451 ok;6549 error)
+Test: % de acierto: 89.0 (8950 ok;1050 error)
+130) Network error: 0.1005951228338088
+Train: % de acierto: 89.0 (53469 ok;6531 error)
+Test: % de acierto: 89.0 (8950 ok;1050 error)
+131) Network error: 0.10022349298509495
+Train: % de acierto: 89.0 (53481 ok;6519 error)
+Test: % de acierto: 89.0 (8951 ok;1049 error)
+132) Network error: 0.0998584544015677
+Train: % de acierto: 89.0 (53488 ok;6512 error)
+Test: % de acierto: 89.0 (8954 ok;1046 error)
+133) Network error: 0.0994998176320157
+Train: % de acierto: 89.0 (53500 ok;6500 error)
+Test: % de acierto: 89.0 (8954 ok;1046 error)
+134) Network error: 0.09914740054801964
+Train: % de acierto: 89.0 (53518 ok;6482 error)
+Test: % de acierto: 89.0 (8955 ok;1045 error)
+135) Network error: 0.09880102800895153
+Train: % de acierto: 89.0 (53534 ok;6466 error)
+Test: % de acierto: 89.0 (8956 ok;1044 error)
+136) Network error: 0.0984605315433941
+Train: % de acierto: 89.0 (53553 ok;6447 error)
+Test: % de acierto: 89.0 (8960 ok;1040 error)
+137) Network error: 0.09812574904620941
+Train: % de acierto: 89.0 (53564 ok;6436 error)
+Test: % de acierto: 89.0 (8963 ok;1037 error)
+138) Network error: 0.0977965244905385
+Train: % de acierto: 89.0 (53575 ok;6425 error)
+Test: % de acierto: 89.0 (8961 ok;1039 error)
+139) Network error: 0.09747270765397631
+Train: % de acierto: 89.0 (53593 ok;6407 error)
+Test: % de acierto: 89.0 (8966 ok;1034 error)
+140) Network error: 0.09715415385824536
+Train: % de acierto: 89.0 (53607 ok;6393 error)
+Test: % de acierto: 89.0 (8966 ok;1034 error)
+141) Network error: 0.0968407237216829
+Train: % de acierto: 89.0 (53617 ok;6383 error)
+Test: % de acierto: 89.0 (8965 ok;1035 error)
+142) Network error: 0.09653228292391564
+Train: % de acierto: 89.0 (53628 ok;6372 error)
+Test: % de acierto: 89.0 (8964 ok;1036 error)
+143) Network error: 0.09622870198205988
+Train: % de acierto: 89.0 (53641 ok;6359 error)
+Test: % de acierto: 89.0 (8965 ok;1035 error)
+144) Network error: 0.09592985603789139
+Train: % de acierto: 89.0 (53651 ok;6349 error)
+Test: % de acierto: 89.0 (8967 ok;1033 error)
+145) Network error: 0.09563562465538075
+Train: % de acierto: 89.0 (53668 ok;6332 error)
+Test: % de acierto: 89.0 (8967 ok;1033 error)
+146) Network error: 0.09534589162806265
+Train: % de acierto: 89.0 (53685 ok;6315 error)
+Test: % de acierto: 89.0 (8967 ok;1033 error)
+147) Network error: 0.09506054479570353
+Train: % de acierto: 89.0 (53700 ok;6300 error)
+Test: % de acierto: 89.0 (8969 ok;1031 error)
+148) Network error: 0.09477947586979021
+Train: % de acierto: 89.0 (53714 ok;6286 error)
+Test: % de acierto: 89.0 (8971 ok;1029 error)
+149) Network error: 0.0945025802673513
+Train: % de acierto: 89.0 (53720 ok;6280 error)
+Test: % de acierto: 89.0 (8971 ok;1029 error)
+150) Network error: 0.09422975695266562
+Train: % de acierto: 89.0 (53734 ok;6266 error)
+Test: % de acierto: 89.0 (8972 ok;1028 error)
+151) Network error: 0.09396090828645588
+Train: % de acierto: 89.0 (53751 ok;6249 error)
+Test: % de acierto: 89.0 (8972 ok;1028 error)
+152) Network error: 0.09369593988213837
+Train: % de acierto: 89.0 (53759 ok;6241 error)
+Test: % de acierto: 89.0 (8975 ok;1025 error)
+153) Network error: 0.09343476046879857
+Train: % de acierto: 89.0 (53766 ok;6234 error)
+Test: % de acierto: 89.0 (8976 ok;1024 error)
+154) Network error: 0.09317728176048905
+Train: % de acierto: 89.0 (53786 ok;6214 error)
+Test: % de acierto: 89.0 (8976 ok;1024 error)
+155) Network error: 0.0929234183315892
+Train: % de acierto: 89.0 (53793 ok;6207 error)
+Test: % de acierto: 89.0 (8979 ok;1021 error)
+156) Network error: 0.09267308749785214
+Train: % de acierto: 89.0 (53806 ok;6194 error)
+Test: % de acierto: 89.0 (8983 ok;1017 error)
+157) Network error: 0.0924262092029168
+Train: % de acierto: 89.0 (53819 ok;6181 error)
+Test: % de acierto: 89.0 (8984 ok;1016 error)
+158) Network error: 0.0921827059099701
+Train: % de acierto: 89.0 (53832 ok;6168 error)
+Test: % de acierto: 89.0 (8986 ok;1014 error)
+159) Network error: 0.09194250249836383
+Train: % de acierto: 89.0 (53850 ok;6150 error)
+Test: % de acierto: 89.0 (8986 ok;1014 error)
+160) Network error: 0.09170552616490371
+Train: % de acierto: 89.0 (53857 ok;6143 error)
+Test: % de acierto: 89.0 (8990 ok;1010 error)
+161) Network error: 0.09147170632965224
+Train: % de acierto: 89.0 (53865 ok;6135 error)
+Test: % de acierto: 89.0 (8991 ok;1009 error)
+162) Network error: 0.09124097454600685
+Train: % de acierto: 89.0 (53882 ok;6118 error)
+Test: % de acierto: 89.0 (8992 ok;1008 error)
+163) Network error: 0.09101326441489355
+Train: % de acierto: 89.0 (53889 ok;6111 error)
+Test: % de acierto: 89.0 (8993 ok;1007 error)
+164) Network error: 0.09078851150291363
+Train: % de acierto: 89.0 (53904 ok;6096 error)
+Test: % de acierto: 89.0 (8996 ok;1004 error)
+165) Network error: 0.09056665326423587
+Train: % de acierto: 89.0 (53914 ok;6086 error)
+Test: % de acierto: 89.0 (8994 ok;1006 error)
+166) Network error: 0.09034762896613861
+Train: % de acierto: 89.0 (53924 ok;6076 error)
+Test: % de acierto: 89.0 (8996 ok;1004 error)
+167) Network error: 0.09013137961803647
+Train: % de acierto: 89.0 (53938 ok;6062 error)
+Test: % de acierto: 89.0 (8999 ok;1001 error)
+168) Network error: 0.08991784790383354
+Train: % de acierto: 89.0 (53945 ok;6055 error)
+Test: % de acierto: 90.0 (9000 ok;1000 error)
+169) Network error: 0.08970697811749931
+Train: % de acierto: 89.0 (53955 ok;6045 error)
+Test: % de acierto: 90.0 (9002 ok;998 error)
+170) Network error: 0.08949871610173096
+Train: % de acierto: 89.0 (53969 ok;6031 error)
+Test: % de acierto: 90.0 (9005 ok;995 error)
+171) Network error: 0.08929300918957153
+Train: % de acierto: 89.0 (53973 ok;6027 error)
+Test: % de acierto: 90.0 (9007 ok;993 error)
+172) Network error: 0.08908980614886378
+Train: % de acierto: 89.0 (53988 ok;6012 error)
+Test: % de acierto: 90.0 (9006 ok;994 error)
+173) Network error: 0.08888905712942338
+Train: % de acierto: 89.0 (53999 ok;6001 error)
+Test: % de acierto: 90.0 (9004 ok;996 error)
+174) Network error: 0.08869071361281733
+Train: % de acierto: 90.0 (54009 ok;5991 error)
+Test: % de acierto: 90.0 (9008 ok;992 error)
+175) Network error: 0.08849472836460415
+Train: % de acierto: 90.0 (54018 ok;5982 error)
+Test: % de acierto: 90.0 (9008 ok;992 error)
+176) Network error: 0.08830105538896937
+Train: % de acierto: 90.0 (54024 ok;5976 error)
+Test: % de acierto: 90.0 (9009 ok;991 error)
+177) Network error: 0.08810964988557535
+Train: % de acierto: 90.0 (54036 ok;5964 error)
+Test: % de acierto: 90.0 (9013 ok;987 error)
+178) Network error: 0.08792046820858815
+Train: % de acierto: 90.0 (54041 ok;5959 error)
+Test: % de acierto: 90.0 (9016 ok;984 error)
+179) Network error: 0.08773346782769328
+Train: % de acierto: 90.0 (54048 ok;5952 error)
+Test: % de acierto: 90.0 (9018 ok;982 error)
+180) Network error: 0.08754860729105833
+Train: % de acierto: 90.0 (54058 ok;5942 error)
+Test: % de acierto: 90.0 (9022 ok;978 error)
+181) Network error: 0.08736584619007982
+Train: % de acierto: 90.0 (54068 ok;5932 error)
+Test: % de acierto: 90.0 (9025 ok;975 error)
+182) Network error: 0.08718514512584911
+Train: % de acierto: 90.0 (54083 ok;5917 error)
+Test: % de acierto: 90.0 (9024 ok;976 error)
+183) Network error: 0.08700646567722434
+Train: % de acierto: 90.0 (54087 ok;5913 error)
+Test: % de acierto: 90.0 (9025 ok;975 error)
+184) Network error: 0.08682977037038489
+Train: % de acierto: 90.0 (54102 ok;5898 error)
+Test: % de acierto: 90.0 (9026 ok;974 error)
+185) Network error: 0.08665502264982364
+Train: % de acierto: 90.0 (54107 ok;5893 error)
+Test: % de acierto: 90.0 (9030 ok;970 error)
+186) Network error: 0.08648218685064635
+Train: % de acierto: 90.0 (54113 ok;5887 error)
+Test: % de acierto: 90.0 (9033 ok;967 error)
+187) Network error: 0.08631122817208968
+Train: % de acierto: 90.0 (54117 ok;5883 error)
+Test: % de acierto: 90.0 (9032 ok;968 error)
+188) Network error: 0.08614211265223116
+Train: % de acierto: 90.0 (54128 ok;5872 error)
+Test: % de acierto: 90.0 (9032 ok;968 error)
+189) Network error: 0.08597480714372602
+Train: % de acierto: 90.0 (54138 ok;5862 error)
+Test: % de acierto: 90.0 (9035 ok;965 error)
+190) Network error: 0.08580927929058423
+Train: % de acierto: 90.0 (54145 ok;5855 error)
+Test: % de acierto: 90.0 (9035 ok;965 error)
+191) Network error: 0.08564549750587214
+Train: % de acierto: 90.0 (54158 ok;5842 error)
+Test: % de acierto: 90.0 (9036 ok;964 error)
+192) Network error: 0.08548343095026784
+Train: % de acierto: 90.0 (54161 ok;5839 error)
+Test: % de acierto: 90.0 (9037 ok;963 error)
+193) Network error: 0.0853230495114589
+Train: % de acierto: 90.0 (54166 ok;5834 error)
+Test: % de acierto: 90.0 (9039 ok;961 error)
+194) Network error: 0.0851643237842851
+Train: % de acierto: 90.0 (54170 ok;5830 error)
+Test: % de acierto: 90.0 (9042 ok;958 error)
+195) Network error: 0.08500722505158387
+Train: % de acierto: 90.0 (54178 ok;5822 error)
+Test: % de acierto: 90.0 (9043 ok;957 error)
+196) Network error: 0.08485172526571379
+Train: % de acierto: 90.0 (54186 ok;5814 error)
+Test: % de acierto: 90.0 (9044 ok;956 error)
+197) Network error: 0.0846977970306885
+Train: % de acierto: 90.0 (54190 ok;5810 error)
+Test: % de acierto: 90.0 (9046 ok;954 error)
+198) Network error: 0.08454541358490802
+Train: % de acierto: 90.0 (54199 ok;5801 error)
+Test: % de acierto: 90.0 (9047 ok;953 error)
+199) Network error: 0.0843945487844163
+Train: % de acierto: 90.0 (54206 ok;5794 error)
+Test: % de acierto: 90.0 (9047 ok;953 error)
+200) Network error: 0.08424517708669715
+Train: % de acierto: 90.0 (54214 ok;5786 error)
+Test: % de acierto: 90.0 (9048 ok;952 error)
+201) Network error: 0.08409727353494556
+Train: % de acierto: 90.0 (54224 ok;5776 error)
+Test: % de acierto: 90.0 (9049 ok;951 error)
+202) Network error: 0.08395081374281031
+Train: % de acierto: 90.0 (54228 ok;5772 error)
+Test: % de acierto: 90.0 (9052 ok;948 error)
+203) Network error: 0.0838057738795561
+Train: % de acierto: 90.0 (54238 ok;5762 error)
+Test: % de acierto: 90.0 (9054 ok;946 error)
+204) Network error: 0.08366213065566441
+Train: % de acierto: 90.0 (54245 ok;5755 error)
+Test: % de acierto: 90.0 (9054 ok;946 error)
+205) Network error: 0.0835198613088205
+Train: % de acierto: 90.0 (54257 ok;5743 error)
+Test: % de acierto: 90.0 (9052 ok;948 error)
+206) Network error: 0.08337894359027317
+Train: % de acierto: 90.0 (54262 ok;5738 error)
+Test: % de acierto: 90.0 (9052 ok;948 error)
+207) Network error: 0.08323935575156725
+Train: % de acierto: 90.0 (54269 ok;5731 error)
+Test: % de acierto: 90.0 (9053 ok;947 error)
+208) Network error: 0.08310107653161942
+Train: % de acierto: 90.0 (54270 ok;5730 error)
+Test: % de acierto: 90.0 (9055 ok;945 error)
+209) Network error: 0.08296408514412806
+Train: % de acierto: 90.0 (54273 ok;5727 error)
+Test: % de acierto: 90.0 (9054 ok;946 error)
+210) Network error: 0.08282836126530883
+Train: % de acierto: 90.0 (54282 ok;5718 error)
+Test: % de acierto: 90.0 (9056 ok;944 error)
+211) Network error: 0.08269388502193331
+Train: % de acierto: 90.0 (54290 ok;5710 error)
+Test: % de acierto: 90.0 (9058 ok;942 error)
+212) Network error: 0.08256063697967714
+Train: % de acierto: 90.0 (54295 ok;5705 error)
+Test: % de acierto: 90.0 (9060 ok;940 error)
+213) Network error: 0.08242859813175493
+Train: % de acierto: 90.0 (54301 ok;5699 error)
+Test: % de acierto: 90.0 (9062 ok;938 error)
+214) Network error: 0.08229774988782601
+Train: % de acierto: 90.0 (54308 ok;5692 error)
+Test: % de acierto: 90.0 (9061 ok;939 error)
+215) Network error: 0.08216807406319873
+Train: % de acierto: 90.0 (54316 ok;5684 error)
+Test: % de acierto: 90.0 (9061 ok;939 error)
+216) Network error: 0.0820395528682709
+Train: % de acierto: 90.0 (54320 ok;5680 error)
+Test: % de acierto: 90.0 (9062 ok;938 error)
+217) Network error: 0.08191216889824962
+Train: % de acierto: 90.0 (54329 ok;5671 error)
+Test: % de acierto: 90.0 (9063 ok;937 error)
+218) Network error: 0.08178590512310702
+Train: % de acierto: 90.0 (54335 ok;5665 error)
+Test: % de acierto: 90.0 (9064 ok;936 error)
+219) Network error: 0.08166074487779494
+Train: % de acierto: 90.0 (54348 ok;5652 error)
+Test: % de acierto: 90.0 (9064 ok;936 error)
+220) Network error: 0.08153667185268622
+Train: % de acierto: 90.0 (54357 ok;5643 error)
+Test: % de acierto: 90.0 (9066 ok;934 error)
+221) Network error: 0.08141367008425186
+Train: % de acierto: 90.0 (54363 ok;5637 error)
+Test: % de acierto: 90.0 (9067 ok;933 error)
+222) Network error: 0.08129172394596867
+Train: % de acierto: 90.0 (54374 ok;5626 error)
+Test: % de acierto: 90.0 (9067 ok;933 error)
+223) Network error: 0.081170818139441
+Train: % de acierto: 90.0 (54379 ok;5621 error)
+Test: % de acierto: 90.0 (9067 ok;933 error)
+224) Network error: 0.08105093768575491
+Train: % de acierto: 90.0 (54384 ok;5616 error)
+Test: % de acierto: 90.0 (9072 ok;928 error)
+225) Network error: 0.08093206791702255
+Train: % de acierto: 90.0 (54386 ok;5614 error)
+Test: % de acierto: 90.0 (9075 ok;925 error)
+226) Network error: 0.08081419446815344
+Train: % de acierto: 90.0 (54394 ok;5606 error)
+Test: % de acierto: 90.0 (9077 ok;923 error)
+227) Network error: 0.0806973032688191
+Train: % de acierto: 90.0 (54395 ok;5605 error)
+Test: % de acierto: 90.0 (9078 ok;922 error)
+228) Network error: 0.08058138053562712
+Train: % de acierto: 90.0 (54401 ok;5599 error)
+Test: % de acierto: 90.0 (9082 ok;918 error)
+229) Network error: 0.08046641276447868
+Train: % de acierto: 90.0 (54407 ok;5593 error)
+Test: % de acierto: 90.0 (9080 ok;920 error)
+230) Network error: 0.08035238672313413
+Train: % de acierto: 90.0 (54415 ok;5585 error)
+Test: % de acierto: 90.0 (9080 ok;920 error)
+231) Network error: 0.08023928944395528
+Train: % de acierto: 90.0 (54427 ok;5573 error)
+Test: % de acierto: 90.0 (9080 ok;920 error)
+232) Network error: 0.08012710821684475
+Train: % de acierto: 90.0 (54430 ok;5570 error)
+Test: % de acierto: 90.0 (9081 ok;919 error)
+233) Network error: 0.08001583058236117
+Train: % de acierto: 90.0 (54435 ok;5565 error)
+Test: % de acierto: 90.0 (9081 ok;919 error)
+234) Network error: 0.07990544432502371
+Train: % de acierto: 90.0 (54444 ok;5556 error)
+Test: % de acierto: 90.0 (9083 ok;917 error)
+235) Network error: 0.07979593746678626
+Train: % de acierto: 90.0 (54453 ok;5547 error)
+Test: % de acierto: 90.0 (9085 ok;915 error)
+236) Network error: 0.07968729826069937
+Train: % de acierto: 90.0 (54461 ok;5539 error)
+Test: % de acierto: 90.0 (9089 ok;911 error)
+237) Network error: 0.07957951518473563
+Train: % de acierto: 90.0 (54466 ok;5534 error)
+Test: % de acierto: 90.0 (9090 ok;910 error)
+238) Network error: 0.07947257693578601
+Train: % de acierto: 90.0 (54469 ok;5531 error)
+Test: % de acierto: 90.0 (9087 ok;913 error)
+239) Network error: 0.07936647242383582
+Train: % de acierto: 90.0 (54476 ok;5524 error)
+Test: % de acierto: 90.0 (9090 ok;910 error)
+240) Network error: 0.0792611907663002
+Train: % de acierto: 90.0 (54480 ok;5520 error)
+Test: % de acierto: 90.0 (9092 ok;908 error)
+241) Network error: 0.0791567212825198
+Train: % de acierto: 90.0 (54489 ok;5511 error)
+Test: % de acierto: 90.0 (9093 ok;907 error)
+242) Network error: 0.0790530534884205
+Train: % de acierto: 90.0 (54496 ok;5504 error)
+Test: % de acierto: 90.0 (9094 ok;906 error)
+243) Network error: 0.07895017709134808
+Train: % de acierto: 90.0 (54502 ok;5498 error)
+Test: % de acierto: 90.0 (9095 ok;905 error)
+244) Network error: 0.07884808198503059
+Train: % de acierto: 90.0 (54507 ok;5493 error)
+Test: % de acierto: 90.0 (9096 ok;904 error)
+245) Network error: 0.07874675824471829
+Train: % de acierto: 90.0 (54512 ok;5488 error)
+Test: % de acierto: 90.0 (9099 ok;901 error)
+246) Network error: 0.07864619612246261
+Train: % de acierto: 90.0 (54520 ok;5480 error)
+Test: % de acierto: 91.0 (9100 ok;900 error)
+247) Network error: 0.07854638604255303
+Train: % de acierto: 90.0 (54524 ok;5476 error)
+Test: % de acierto: 91.0 (9104 ok;896 error)
+248) Network error: 0.07844731859708867
+Train: % de acierto: 90.0 (54527 ok;5473 error)
+Test: % de acierto: 91.0 (9104 ok;896 error)
+249) Network error: 0.07834898454169768
+Train: % de acierto: 90.0 (54530 ok;5470 error)
+Test: % de acierto: 91.0 (9104 ok;896 error)
+250) Network error: 0.0782513747914025
+Train: % de acierto: 90.0 (54536 ok;5464 error)
+Test: % de acierto: 91.0 (9105 ok;895 error)
+251) Network error: 0.07815448041660875
+Train: % de acierto: 90.0 (54541 ok;5459 error)
+Test: % de acierto: 91.0 (9106 ok;894 error)
+252) Network error: 0.07805829263923605
+Train: % de acierto: 90.0 (54550 ok;5450 error)
+Test: % de acierto: 91.0 (9106 ok;894 error)
+253) Network error: 0.07796280282896591
+Train: % de acierto: 90.0 (54556 ok;5444 error)
+Test: % de acierto: 91.0 (9107 ok;893 error)
+254) Network error: 0.07786800249964211
+Train: % de acierto: 90.0 (54561 ok;5439 error)
+Test: % de acierto: 91.0 (9107 ok;893 error)
+255) Network error: 0.07777388330575657
+Train: % de acierto: 90.0 (54565 ok;5435 error)
+Test: % de acierto: 91.0 (9108 ok;892 error)
+256) Network error: 0.07768043703908525
+Train: % de acierto: 90.0 (54577 ok;5423 error)
+Test: % de acierto: 91.0 (9109 ok;891 error)
+257) Network error: 0.0775876556254177
+Train: % de acierto: 90.0 (54582 ok;5418 error)
+Test: % de acierto: 91.0 (9109 ok;891 error)
+258) Network error: 0.07749553112141404
+Train: % de acierto: 90.0 (54587 ok;5413 error)
+Test: % de acierto: 91.0 (9110 ok;890 error)
+259) Network error: 0.07740405571155835
+Train: % de acierto: 90.0 (54588 ok;5412 error)
+Test: % de acierto: 91.0 (9114 ok;886 error)
+260) Network error: 0.07731322170521868
+Train: % de acierto: 90.0 (54596 ok;5404 error)
+Test: % de acierto: 91.0 (9116 ok;884 error)
+261) Network error: 0.07722302153380932
+Train: % de acierto: 91.0 (54602 ok;5398 error)
+Test: % de acierto: 91.0 (9117 ok;883 error)
+262) Network error: 0.07713344774805256
+Train: % de acierto: 91.0 (54604 ok;5396 error)
+Test: % de acierto: 91.0 (9117 ok;883 error)
+263) Network error: 0.07704449301532715
+Train: % de acierto: 91.0 (54613 ok;5387 error)
+Test: % de acierto: 91.0 (9116 ok;884 error)
+264) Network error: 0.07695615011710553
+Train: % de acierto: 91.0 (54619 ok;5381 error)
+Test: % de acierto: 91.0 (9118 ok;882 error)
+265) Network error: 0.07686841194649226
+Train: % de acierto: 91.0 (54625 ok;5375 error)
+Test: % de acierto: 91.0 (9120 ok;880 error)
+266) Network error: 0.07678127150582696
+Train: % de acierto: 91.0 (54628 ok;5372 error)
+Test: % de acierto: 91.0 (9120 ok;880 error)
+267) Network error: 0.07669472190437517
+Train: % de acierto: 91.0 (54629 ok;5371 error)
+Test: % de acierto: 91.0 (9120 ok;880 error)
+268) Network error: 0.07660875635610473
+Train: % de acierto: 91.0 (54634 ok;5366 error)
+Test: % de acierto: 91.0 (9121 ok;879 error)
+269) Network error: 0.07652336817751665
+Train: % de acierto: 91.0 (54643 ok;5357 error)
+Test: % de acierto: 91.0 (9123 ok;877 error)
+270) Network error: 0.07643855078556396
+Train: % de acierto: 91.0 (54646 ok;5354 error)
+Test: % de acierto: 91.0 (9124 ok;876 error)
+271) Network error: 0.07635429769563268
+Train: % de acierto: 91.0 (54650 ok;5350 error)
+Test: % de acierto: 91.0 (9126 ok;874 error)
+272) Network error: 0.07627060251958814
+Train: % de acierto: 91.0 (54659 ok;5341 error)
+Test: % de acierto: 91.0 (9129 ok;871 error)
+273) Network error: 0.07618745896387868
+Train: % de acierto: 91.0 (54669 ok;5331 error)
+Test: % de acierto: 91.0 (9130 ok;870 error)
+274) Network error: 0.07610486082771699
+Train: % de acierto: 91.0 (54673 ok;5327 error)
+Test: % de acierto: 91.0 (9132 ok;868 error)
+275) Network error: 0.07602280200129374
+Train: % de acierto: 91.0 (54678 ok;5322 error)
+Test: % de acierto: 91.0 (9132 ok;868 error)
+276) Network error: 0.07594127646406884
+Train: % de acierto: 91.0 (54680 ok;5320 error)
+Test: % de acierto: 91.0 (9133 ok;867 error)
+277) Network error: 0.07586027828310851
+Train: % de acierto: 91.0 (54686 ok;5314 error)
+Test: % de acierto: 91.0 (9132 ok;868 error)
+278) Network error: 0.07577980161146664
+Train: % de acierto: 91.0 (54689 ok;5311 error)
+Test: % de acierto: 91.0 (9132 ok;868 error)
+279) Network error: 0.07569984068662776
+Train: % de acierto: 91.0 (54691 ok;5309 error)
+Test: % de acierto: 91.0 (9134 ok;866 error)
+280) Network error: 0.07562038982898324
+Train: % de acierto: 91.0 (54698 ok;5302 error)
+Test: % de acierto: 91.0 (9135 ok;865 error)
+281) Network error: 0.07554144344036814
+Train: % de acierto: 91.0 (54703 ok;5297 error)
+Test: % de acierto: 91.0 (9135 ok;865 error)
+282) Network error: 0.07546299600262728
+Train: % de acierto: 91.0 (54709 ok;5291 error)
+Test: % de acierto: 91.0 (9135 ok;865 error)
+283) Network error: 0.07538504207623374
+Train: % de acierto: 91.0 (54709 ok;5291 error)
+Test: % de acierto: 91.0 (9136 ok;864 error)
+284) Network error: 0.07530757629893099
+Train: % de acierto: 91.0 (54712 ok;5288 error)
+Test: % de acierto: 91.0 (9137 ok;863 error)
+285) Network error: 0.07523059338444024
+Train: % de acierto: 91.0 (54713 ok;5287 error)
+Test: % de acierto: 91.0 (9134 ok;866 error)
+286) Network error: 0.07515408812117316
+Train: % de acierto: 91.0 (54719 ok;5281 error)
+Test: % de acierto: 91.0 (9135 ok;865 error)
+287) Network error: 0.07507805537100196
+Train: % de acierto: 91.0 (54723 ok;5277 error)
+Test: % de acierto: 91.0 (9138 ok;862 error)
+288) Network error: 0.07500249006805178
+Train: % de acierto: 91.0 (54724 ok;5276 error)
+Test: % de acierto: 91.0 (9138 ok;862 error)
+289) Network error: 0.07492738721753119
+Train: % de acierto: 91.0 (54733 ok;5267 error)
+Test: % de acierto: 91.0 (9139 ok;861 error)
+290) Network error: 0.07485274189458371
+Train: % de acierto: 91.0 (54739 ok;5261 error)
+Test: % de acierto: 91.0 (9137 ok;863 error)
+291) Network error: 0.07477854924317771
+Train: % de acierto: 91.0 (54742 ok;5258 error)
+Test: % de acierto: 91.0 (9138 ok;862 error)
+292) Network error: 0.07470480447502137
+Train: % de acierto: 91.0 (54747 ok;5253 error)
+Test: % de acierto: 91.0 (9138 ok;862 error)
+293) Network error: 0.07463150286849794
+Train: % de acierto: 91.0 (54754 ok;5246 error)
+Test: % de acierto: 91.0 (9138 ok;862 error)
+294) Network error: 0.07455863976763917
+Train: % de acierto: 91.0 (54762 ok;5238 error)
+Test: % de acierto: 91.0 (9138 ok;862 error)
+295) Network error: 0.07448621058110357
+Train: % de acierto: 91.0 (54766 ok;5234 error)
+Test: % de acierto: 91.0 (9138 ok;862 error)
+296) Network error: 0.0744142107811966
+Train: % de acierto: 91.0 (54771 ok;5229 error)
+Test: % de acierto: 91.0 (9138 ok;862 error)
+297) Network error: 0.07434263590289991
+Train: % de acierto: 91.0 (54776 ok;5224 error)
+Test: % de acierto: 91.0 (9140 ok;860 error)
+298) Network error: 0.07427148154292845
+Train: % de acierto: 91.0 (54781 ok;5219 error)
+Test: % de acierto: 91.0 (9140 ok;860 error)
+299) Network error: 0.07420074335880145
+Train: % de acierto: 91.0 (54783 ok;5217 error)
+Test: % de acierto: 91.0 (9140 ok;860 error)
+300) Network error: 0.074130417067929
+Train: % de acierto: 91.0 (54785 ok;5215 error)
+Test: % de acierto: 91.0 (9141 ok;859 error)
+301) Network error: 0.07406049844673748
+Train: % de acierto: 91.0 (54787 ok;5213 error)
+Test: % de acierto: 91.0 (9143 ok;857 error)
+302) Network error: 0.07399098332978268
+Train: % de acierto: 91.0 (54794 ok;5206 error)
+Test: % de acierto: 91.0 (9145 ok;855 error)
+303) Network error: 0.07392186760889528
+Train: % de acierto: 91.0 (54802 ok;5198 error)
+Test: % de acierto: 91.0 (9145 ok;855 error)
+304) Network error: 0.07385314723234389
+Train: % de acierto: 91.0 (54807 ok;5193 error)
+Test: % de acierto: 91.0 (9146 ok;854 error)
+305) Network error: 0.07378481820400801
+Train: % de acierto: 91.0 (54811 ok;5189 error)
+Test: % de acierto: 91.0 (9148 ok;852 error)
+306) Network error: 0.0737168765825602
+Train: % de acierto: 91.0 (54813 ok;5187 error)
+Test: % de acierto: 91.0 (9152 ok;848 error)
+307) Network error: 0.07364931848067285
+Train: % de acierto: 91.0 (54816 ok;5184 error)
+Test: % de acierto: 91.0 (9152 ok;848 error)
+308) Network error: 0.07358214006423185
+Train: % de acierto: 91.0 (54818 ok;5182 error)
+Test: % de acierto: 91.0 (9153 ok;847 error)
+309) Network error: 0.07351533755155618
+Train: % de acierto: 91.0 (54824 ok;5176 error)
+Test: % de acierto: 91.0 (9153 ok;847 error)
+310) Network error: 0.07344890721264942
+Train: % de acierto: 91.0 (54830 ok;5170 error)
+Test: % de acierto: 91.0 (9153 ok;847 error)
+311) Network error: 0.07338284536843734
+Train: % de acierto: 91.0 (54835 ok;5165 error)
+Test: % de acierto: 91.0 (9153 ok;847 error)
+312) Network error: 0.07331714839003921
+Train: % de acierto: 91.0 (54836 ok;5164 error)
+Test: % de acierto: 91.0 (9154 ok;846 error)
+313) Network error: 0.07325181269803208
+Train: % de acierto: 91.0 (54840 ok;5160 error)
+Test: % de acierto: 91.0 (9154 ok;846 error)
+314) Network error: 0.07318683476174424
+Train: % de acierto: 91.0 (54845 ok;5155 error)
+Test: % de acierto: 91.0 (9155 ok;845 error)
+315) Network error: 0.07312221109853606
+Train: % de acierto: 91.0 (54849 ok;5151 error)
+Test: % de acierto: 91.0 (9157 ok;843 error)
+316) Network error: 0.07305793827311238
+Train: % de acierto: 91.0 (54851 ok;5149 error)
+Test: % de acierto: 91.0 (9157 ok;843 error)
+317) Network error: 0.07299401289683063
+Train: % de acierto: 91.0 (54853 ok;5147 error)
+Test: % de acierto: 91.0 (9157 ok;843 error)
+318) Network error: 0.07293043162702645
+Train: % de acierto: 91.0 (54855 ok;5145 error)
+Test: % de acierto: 91.0 (9158 ok;842 error)
+319) Network error: 0.07286719116634183
+Train: % de acierto: 91.0 (54864 ok;5136 error)
+Test: % de acierto: 91.0 (9157 ok;843 error)
+320) Network error: 0.07280428826206277
+Train: % de acierto: 91.0 (54868 ok;5132 error)
+Test: % de acierto: 91.0 (9158 ok;842 error)
+321) Network error: 0.07274171970547469
+Train: % de acierto: 91.0 (54873 ok;5127 error)
+Test: % de acierto: 91.0 (9159 ok;841 error)
+322) Network error: 0.07267948233121113
+Train: % de acierto: 91.0 (54882 ok;5118 error)
+Test: % de acierto: 91.0 (9161 ok;839 error)
+323) Network error: 0.07261757301662627
+Train: % de acierto: 91.0 (54883 ok;5117 error)
+Test: % de acierto: 91.0 (9161 ok;839 error)
+324) Network error: 0.07255598868115981
+Train: % de acierto: 91.0 (54887 ok;5113 error)
+Test: % de acierto: 91.0 (9160 ok;840 error)
+325) Network error: 0.07249472628572205
+Train: % de acierto: 91.0 (54892 ok;5108 error)
+Test: % de acierto: 91.0 (9161 ok;839 error)
+326) Network error: 0.0724337828320814
+Train: % de acierto: 91.0 (54891 ok;5109 error)
+Test: % de acierto: 91.0 (9163 ok;837 error)
+327) Network error: 0.0723731553622546
+Train: % de acierto: 91.0 (54895 ok;5105 error)
+Test: % de acierto: 91.0 (9163 ok;837 error)
+328) Network error: 0.07231284095791217
+Train: % de acierto: 91.0 (54902 ok;5098 error)
+Test: % de acierto: 91.0 (9163 ok;837 error)
+329) Network error: 0.07225283673978264
+Train: % de acierto: 91.0 (54904 ok;5096 error)
+Test: % de acierto: 91.0 (9162 ok;838 error)
+330) Network error: 0.07219313986707172
+Train: % de acierto: 91.0 (54909 ok;5091 error)
+Test: % de acierto: 91.0 (9161 ok;839 error)
+331) Network error: 0.07213374753687868
+Train: % de acierto: 91.0 (54918 ok;5082 error)
+Test: % de acierto: 91.0 (9162 ok;838 error)
+332) Network error: 0.07207465698362513
+Train: % de acierto: 91.0 (54922 ok;5078 error)
+Test: % de acierto: 91.0 (9163 ok;837 error)
+333) Network error: 0.07201586547848088
+Train: % de acierto: 91.0 (54923 ok;5077 error)
+Test: % de acierto: 91.0 (9163 ok;837 error)
+334) Network error: 0.07195737032881404
+Train: % de acierto: 91.0 (54928 ok;5072 error)
+Test: % de acierto: 91.0 (9164 ok;836 error)
+335) Network error: 0.07189916887762174
+Train: % de acierto: 91.0 (54930 ok;5070 error)
+Test: % de acierto: 91.0 (9166 ok;834 error)
+336) Network error: 0.07184125850298502
+Train: % de acierto: 91.0 (54932 ok;5068 error)
+Test: % de acierto: 91.0 (9168 ok;832 error)
+337) Network error: 0.07178363661751949
+Train: % de acierto: 91.0 (54934 ok;5066 error)
+Test: % de acierto: 91.0 (9169 ok;831 error)
+338) Network error: 0.07172630066783613
+Train: % de acierto: 91.0 (54941 ok;5059 error)
+Test: % de acierto: 91.0 (9169 ok;831 error)
+339) Network error: 0.07166924813400394
+Train: % de acierto: 91.0 (54945 ok;5055 error)
+Test: % de acierto: 91.0 (9170 ok;830 error)
+340) Network error: 0.07161247652901509
+Train: % de acierto: 91.0 (54950 ok;5050 error)
+Test: % de acierto: 91.0 (9171 ok;829 error)
+341) Network error: 0.07155598339826577
+Train: % de acierto: 91.0 (54953 ok;5047 error)
+Test: % de acierto: 91.0 (9171 ok;829 error)
+342) Network error: 0.0714997663190218
+Train: % de acierto: 91.0 (54960 ok;5040 error)
+Test: % de acierto: 91.0 (9170 ok;830 error)
+343) Network error: 0.0714438228999139
+Train: % de acierto: 91.0 (54962 ok;5038 error)
+Test: % de acierto: 91.0 (9172 ok;828 error)
+344) Network error: 0.07138815078042089
+Train: % de acierto: 91.0 (54968 ok;5032 error)
+Test: % de acierto: 91.0 (9174 ok;826 error)
+345) Network error: 0.0713327476303583
+Train: % de acierto: 91.0 (54969 ok;5031 error)
+Test: % de acierto: 91.0 (9174 ok;826 error)
+346) Network error: 0.07127761114937976
+Train: % de acierto: 91.0 (54972 ok;5028 error)
+Test: % de acierto: 91.0 (9174 ok;826 error)
+347) Network error: 0.07122273906648202
+Train: % de acierto: 91.0 (54976 ok;5024 error)
+Test: % de acierto: 91.0 (9174 ok;826 error)
+348) Network error: 0.07116812913951355
+Train: % de acierto: 91.0 (54981 ok;5019 error)
+Test: % de acierto: 91.0 (9174 ok;826 error)
+349) Network error: 0.0711137791546831
+Train: % de acierto: 91.0 (54985 ok;5015 error)
+Test: % de acierto: 91.0 (9174 ok;826 error)
+350) Network error: 0.07105968692608582
+Train: % de acierto: 91.0 (54989 ok;5011 error)
+Test: % de acierto: 91.0 (9174 ok;826 error)
+351) Network error: 0.07100585029522347
+Train: % de acierto: 91.0 (54990 ok;5010 error)
+Test: % de acierto: 91.0 (9172 ok;828 error)
+352) Network error: 0.07095226713054656
+Train: % de acierto: 91.0 (54994 ok;5006 error)
+Test: % de acierto: 91.0 (9174 ok;826 error)
+353) Network error: 0.0708989353269825
+Train: % de acierto: 91.0 (54995 ok;5005 error)
+Test: % de acierto: 91.0 (9174 ok;826 error)
+354) Network error: 0.07084585280548808
+Train: % de acierto: 91.0 (55002 ok;4998 error)
+Test: % de acierto: 91.0 (9174 ok;826 error)
+355) Network error: 0.07079301751259788
+Train: % de acierto: 91.0 (55006 ok;4994 error)
+Test: % de acierto: 91.0 (9176 ok;824 error)
+356) Network error: 0.07074042741998912
+Train: % de acierto: 91.0 (55009 ok;4991 error)
+Test: % de acierto: 91.0 (9177 ok;823 error)
+357) Network error: 0.0706880805240449
+Train: % de acierto: 91.0 (55011 ok;4989 error)
+Test: % de acierto: 91.0 (9178 ok;822 error)
+358) Network error: 0.07063597484542934
+Train: % de acierto: 91.0 (55017 ok;4983 error)
+Test: % de acierto: 91.0 (9177 ok;823 error)
+359) Network error: 0.07058410842867588
+Train: % de acierto: 91.0 (55022 ok;4978 error)
+Test: % de acierto: 91.0 (9178 ok;822 error)
+360) Network error: 0.07053247934177155
+Train: % de acierto: 91.0 (55027 ok;4973 error)
+Test: % de acierto: 91.0 (9178 ok;822 error)
+361) Network error: 0.07048108567575981
+Train: % de acierto: 91.0 (55029 ok;4971 error)
+Test: % de acierto: 91.0 (9178 ok;822 error)
+362) Network error: 0.07042992554435096
+Train: % de acierto: 91.0 (55032 ok;4968 error)
+Test: % de acierto: 91.0 (9178 ok;822 error)
+363) Network error: 0.07037899708353582
+Train: % de acierto: 91.0 (55036 ok;4964 error)
+Test: % de acierto: 91.0 (9178 ok;822 error)
+364) Network error: 0.07032829845121157
+Train: % de acierto: 91.0 (55037 ok;4963 error)
+Test: % de acierto: 91.0 (9178 ok;822 error)
+365) Network error: 0.07027782782681553
+Train: % de acierto: 91.0 (55041 ok;4959 error)
+Test: % de acierto: 91.0 (9179 ok;821 error)
+366) Network error: 0.07022758341097146
+Train: % de acierto: 91.0 (55042 ok;4958 error)
+Test: % de acierto: 91.0 (9179 ok;821 error)
+367) Network error: 0.07017756342513437
+Train: % de acierto: 91.0 (55048 ok;4952 error)
+Test: % de acierto: 91.0 (9180 ok;820 error)
+368) Network error: 0.07012776611126194
+Train: % de acierto: 91.0 (55049 ok;4951 error)
+Test: % de acierto: 91.0 (9181 ok;819 error)
+369) Network error: 0.07007818973147262
+Train: % de acierto: 91.0 (55051 ok;4949 error)
+Test: % de acierto: 91.0 (9181 ok;819 error)
+370) Network error: 0.07002883256773283
+Train: % de acierto: 91.0 (55056 ok;4944 error)
+Test: % de acierto: 91.0 (9182 ok;818 error)
+371) Network error: 0.06997969292153937
+Train: % de acierto: 91.0 (55052 ok;4948 error)
+Test: % de acierto: 91.0 (9182 ok;818 error)
+372) Network error: 0.06993076911361483
+Train: % de acierto: 91.0 (55056 ok;4944 error)
+Test: % de acierto: 91.0 (9183 ok;817 error)
+373) Network error: 0.06988205948361166
+Train: % de acierto: 91.0 (55057 ok;4943 error)
+Test: % de acierto: 91.0 (9183 ok;817 error)
+374) Network error: 0.06983356238982838
+Train: % de acierto: 91.0 (55060 ok;4940 error)
+Test: % de acierto: 91.0 (9183 ok;817 error)
+375) Network error: 0.06978527620892169
+Train: % de acierto: 91.0 (55062 ok;4938 error)
+Test: % de acierto: 91.0 (9184 ok;816 error)
+376) Network error: 0.06973719933563864
+Train: % de acierto: 91.0 (55068 ok;4932 error)
+Test: % de acierto: 91.0 (9184 ok;816 error)
+377) Network error: 0.06968933018255298
+Train: % de acierto: 91.0 (55069 ok;4931 error)
+Test: % de acierto: 91.0 (9184 ok;816 error)
+378) Network error: 0.06964166717980426
+Train: % de acierto: 91.0 (55071 ok;4929 error)
+Test: % de acierto: 91.0 (9184 ok;816 error)
+379) Network error: 0.069594208774847
+Train: % de acierto: 91.0 (55079 ok;4921 error)
+Test: % de acierto: 91.0 (9184 ok;816 error)
+380) Network error: 0.06954695343221028
+Train: % de acierto: 91.0 (55083 ok;4917 error)
+Test: % de acierto: 91.0 (9184 ok;816 error)
+381) Network error: 0.06949989963325742
+Train: % de acierto: 91.0 (55084 ok;4916 error)
+Test: % de acierto: 91.0 (9185 ok;815 error)
+382) Network error: 0.06945304587595443
+Train: % de acierto: 91.0 (55088 ok;4912 error)
+Test: % de acierto: 91.0 (9186 ok;814 error)
+383) Network error: 0.06940639067464466
+Train: % de acierto: 91.0 (55090 ok;4910 error)
+Test: % de acierto: 91.0 (9186 ok;814 error)
+384) Network error: 0.06935993255983061
+Train: % de acierto: 91.0 (55092 ok;4908 error)
+Test: % de acierto: 91.0 (9187 ok;813 error)
+385) Network error: 0.06931367007795648
+Train: % de acierto: 91.0 (55093 ok;4907 error)
+Test: % de acierto: 91.0 (9188 ok;812 error)
+386) Network error: 0.06926760179120224
+Train: % de acierto: 91.0 (55096 ok;4904 error)
+Test: % de acierto: 91.0 (9188 ok;812 error)
+387) Network error: 0.06922172627727108
+Train: % de acierto: 91.0 (55096 ok;4904 error)
+Test: % de acierto: 91.0 (9187 ok;813 error)
+388) Network error: 0.06917604212919866
+Train: % de acierto: 91.0 (55103 ok;4897 error)
+Test: % de acierto: 91.0 (9188 ok;812 error)
+389) Network error: 0.06913054795515483
+Train: % de acierto: 91.0 (55104 ok;4896 error)
+Test: % de acierto: 91.0 (9187 ok;813 error)
+390) Network error: 0.06908524237823949
+Train: % de acierto: 91.0 (55107 ok;4893 error)
+Test: % de acierto: 91.0 (9188 ok;812 error)
+391) Network error: 0.06904012403631014
+Train: % de acierto: 91.0 (55111 ok;4889 error)
+Test: % de acierto: 91.0 (9187 ok;813 error)
+392) Network error: 0.06899519158178971
+Train: % de acierto: 91.0 (55115 ok;4885 error)
+Test: % de acierto: 91.0 (9187 ok;813 error)
+393) Network error: 0.06895044368147936
+Train: % de acierto: 91.0 (55121 ok;4879 error)
+Test: % de acierto: 91.0 (9187 ok;813 error)
+394) Network error: 0.0689058790163916
+Train: % de acierto: 91.0 (55127 ok;4873 error)
+Test: % de acierto: 91.0 (9187 ok;813 error)
+395) Network error: 0.06886149628156131
+Train: % de acierto: 91.0 (55130 ok;4870 error)
+Test: % de acierto: 91.0 (9188 ok;812 error)
+396) Network error: 0.06881729418588568
+Train: % de acierto: 91.0 (55131 ok;4869 error)
+Test: % de acierto: 91.0 (9188 ok;812 error)
+397) Network error: 0.06877327145193987
+Train: % de acierto: 91.0 (55134 ok;4866 error)
+Test: % de acierto: 91.0 (9188 ok;812 error)
+398) Network error: 0.06872942681582062
+Train: % de acierto: 91.0 (55135 ok;4865 error)
+Test: % de acierto: 91.0 (9187 ok;813 error)
+399) Network error: 0.06868575902697059
+Train: % de acierto: 91.0 (55139 ok;4861 error)
+Test: % de acierto: 91.0 (9188 ok;812 error)
+400) Network error: 0.06864226684802127
+Train: % de acierto: 91.0 (55140 ok;4860 error)
+Test: % de acierto: 91.0 (9188 ok;812 error)
+401) Network error: 0.06859894905463028
+Train: % de acierto: 91.0 (55142 ok;4858 error)
+Test: % de acierto: 91.0 (9188 ok;812 error)
+402) Network error: 0.06855580443531378
+Train: % de acierto: 91.0 (55144 ok;4856 error)
+Test: % de acierto: 91.0 (9189 ok;811 error)
+403) Network error: 0.06851283179129772
+Train: % de acierto: 91.0 (55145 ok;4855 error)
+Test: % de acierto: 91.0 (9190 ok;810 error)
+404) Network error: 0.06847002993635516
+Train: % de acierto: 91.0 (55148 ok;4852 error)
+Test: % de acierto: 91.0 (9189 ok;811 error)
+405) Network error: 0.0684273976966545
+Train: % de acierto: 91.0 (55148 ok;4852 error)
+Test: % de acierto: 91.0 (9189 ok;811 error)
+406) Network error: 0.06838493391060257
+Train: % de acierto: 91.0 (55150 ok;4850 error)
+Test: % de acierto: 91.0 (9188 ok;812 error)
+407) Network error: 0.06834263742869667
+Train: % de acierto: 91.0 (55156 ok;4844 error)
+Test: % de acierto: 91.0 (9190 ok;810 error)
+408) Network error: 0.06830050711337124
+Train: % de acierto: 91.0 (55157 ok;4843 error)
+Test: % de acierto: 91.0 (9191 ok;809 error)
+409) Network error: 0.06825854183884757
+Train: % de acierto: 91.0 (55161 ok;4839 error)
+Test: % de acierto: 91.0 (9190 ok;810 error)
+410) Network error: 0.06821674049098919
+Train: % de acierto: 91.0 (55165 ok;4835 error)
+Test: % de acierto: 91.0 (9190 ok;810 error)
+411) Network error: 0.06817510196715451
+Train: % de acierto: 91.0 (55170 ok;4830 error)
+Test: % de acierto: 91.0 (9190 ok;810 error)
+412) Network error: 0.06813362517604886
+Train: % de acierto: 91.0 (55173 ok;4827 error)
+Test: % de acierto: 91.0 (9190 ok;810 error)
+413) Network error: 0.06809230903758735
+Train: % de acierto: 91.0 (55175 ok;4825 error)
+Test: % de acierto: 91.0 (9189 ok;811 error)
+414) Network error: 0.06805115248274224
+Train: % de acierto: 91.0 (55179 ok;4821 error)
+Test: % de acierto: 91.0 (9189 ok;811 error)
+415) Network error: 0.06801015445340963
+Train: % de acierto: 91.0 (55185 ok;4815 error)
+Test: % de acierto: 91.0 (9189 ok;811 error)
+416) Network error: 0.06796931390226822
+Train: % de acierto: 91.0 (55183 ok;4817 error)
+Test: % de acierto: 91.0 (9189 ok;811 error)
+417) Network error: 0.06792862979263506
+Train: % de acierto: 91.0 (55184 ok;4816 error)
+Test: % de acierto: 91.0 (9191 ok;809 error)
+418) Network error: 0.06788810109833576
+Train: % de acierto: 91.0 (55190 ok;4810 error)
+Test: % de acierto: 91.0 (9192 ok;808 error)
+419) Network error: 0.06784772680356081
+Train: % de acierto: 91.0 (55192 ok;4808 error)
+Test: % de acierto: 91.0 (9192 ok;808 error)
+420) Network error: 0.06780750590273397
+Train: % de acierto: 91.0 (55196 ok;4804 error)
+Test: % de acierto: 91.0 (9191 ok;809 error)
+421) Network error: 0.06776743740038005
+Train: % de acierto: 91.0 (55199 ok;4801 error)
+Test: % de acierto: 91.0 (9190 ok;810 error)
+422) Network error: 0.06772752031098686
+Train: % de acierto: 92.0 (55201 ok;4799 error)
+Test: % de acierto: 91.0 (9192 ok;808 error)
+423) Network error: 0.067687753658877
+Train: % de acierto: 92.0 (55201 ok;4799 error)
+Test: % de acierto: 91.0 (9192 ok;808 error)
+424) Network error: 0.06764813647807688
+Train: % de acierto: 92.0 (55203 ok;4797 error)
+Test: % de acierto: 91.0 (9193 ok;807 error)
+425) Network error: 0.06760866781218719
+Train: % de acierto: 91.0 (55199 ok;4801 error)
+Test: % de acierto: 91.0 (9193 ok;807 error)
+426) Network error: 0.06756934671425656
+Train: % de acierto: 92.0 (55200 ok;4800 error)
+Test: % de acierto: 91.0 (9193 ok;807 error)
+427) Network error: 0.0675301722466512
+Train: % de acierto: 92.0 (55203 ok;4797 error)
+Test: % de acierto: 91.0 (9194 ok;806 error)
+428) Network error: 0.06749114348093145
+Train: % de acierto: 92.0 (55205 ok;4795 error)
+Test: % de acierto: 91.0 (9194 ok;806 error)
+429) Network error: 0.06745225949772654
+Train: % de acierto: 92.0 (55208 ok;4792 error)
+Test: % de acierto: 91.0 (9194 ok;806 error)
+430) Network error: 0.06741351938661515
+Train: % de acierto: 92.0 (55210 ok;4790 error)
+Test: % de acierto: 91.0 (9197 ok;803 error)
+431) Network error: 0.06737492224599563
+Train: % de acierto: 92.0 (55210 ok;4790 error)
+Test: % de acierto: 91.0 (9198 ok;802 error)
+432) Network error: 0.06733646718297398
+Train: % de acierto: 92.0 (55211 ok;4789 error)
+Test: % de acierto: 91.0 (9198 ok;802 error)
+433) Network error: 0.06729815331323637
+Train: % de acierto: 92.0 (55212 ok;4788 error)
+Test: % de acierto: 91.0 (9197 ok;803 error)
+434) Network error: 0.06725997976093709
+Train: % de acierto: 92.0 (55216 ok;4784 error)
+Test: % de acierto: 91.0 (9196 ok;804 error)
+435) Network error: 0.06722194565857603
+Train: % de acierto: 92.0 (55215 ok;4785 error)
+Test: % de acierto: 91.0 (9196 ok;804 error)
+436) Network error: 0.06718405014688617
+Train: % de acierto: 92.0 (55218 ok;4782 error)
+Test: % de acierto: 91.0 (9197 ok;803 error)
+437) Network error: 0.06714629237471753
+Train: % de acierto: 92.0 (55220 ok;4780 error)
+Test: % de acierto: 91.0 (9197 ok;803 error)
+438) Network error: 0.06710867149892345
+Train: % de acierto: 92.0 (55223 ok;4777 error)
+Test: % de acierto: 91.0 (9197 ok;803 error)
+439) Network error: 0.06707118668424766
+Train: % de acierto: 92.0 (55226 ok;4774 error)
+Test: % de acierto: 91.0 (9197 ok;803 error)
+440) Network error: 0.06703383710321544
+Train: % de acierto: 92.0 (55227 ok;4773 error)
+Test: % de acierto: 91.0 (9197 ok;803 error)
+BUILD STOPPED (total time: 104 minutes 17 seconds)

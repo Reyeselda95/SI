@@ -1,0 +1,39 @@
+run:
+Loading MNIST data...
+% de acierto: 9.8 (980.0 ok;9020.0 error)
+Training network...
+1) Network error: 0.32983833788791717
+Train: % de acierto: 82.64833333333333 (49589.0 ok;10411.0 error)
+Test: % de acierto: 83.31 (8331.0 ok;1669.0 error)
+2) Network error: 0.1314988706222585
+Train: % de acierto: 88.92666666666666 (53356.0 ok;6644.0 error)
+Test: % de acierto: 89.67 (8967.0 ok;1033.0 error)
+3) Network error: 0.0931066770583437
+Train: % de acierto: 90.365 (54219.0 ok;5781.0 error)
+Test: % de acierto: 90.97 (9097.0 ok;903.0 error)
+4) Network error: 0.08069609096452171
+Train: % de acierto: 91.12666666666667 (54676.0 ok;5324.0 error)
+Test: % de acierto: 91.57 (9157.0 ok;843.0 error)
+5) Network error: 0.0739592445733829
+Train: % de acierto: 91.64333333333333 (54986.0 ok;5014.0 error)
+Test: % de acierto: 91.95 (9195.0 ok;805.0 error)
+6) Network error: 0.0694420605491624
+Train: % de acierto: 92.085 (55251.0 ok;4749.0 error)
+Test: % de acierto: 92.3 (9230.0 ok;770.0 error)
+7) Network error: 0.06608557309805166
+Train: % de acierto: 92.46833333333333 (55481.0 ok;4519.0 error)
+Test: % de acierto: 92.46 (9246.0 ok;754.0 error)
+8) Network error: 0.0634351163447161
+Train: % de acierto: 92.69833333333334 (55619.0 ok;4381.0 error)
+Test: % de acierto: 92.67 (9267.0 ok;733.0 error)
+9) Network error: 0.06125577191889876
+Train: % de acierto: 92.935 (55761.0 ok;4239.0 error)
+Test: % de acierto: 92.78 (9278.0 ok;722.0 error)
+10) Network error: 0.05941254482913083
+Train: % de acierto: 93.165 (55899.0 ok;4101.0 error)
+Test: % de acierto: 92.88 (9288.0 ok;712.0 error)
+10) Network error: 0.05941254482913083
+Train: % de acierto: 93.165 (55899.0 ok;4101.0 error)
+Test: % de acierto: 92.88 (9288.0 ok;712.0 error)
+% de acierto: 92.88 (9288.0 ok;712.0 error)
+BUILD SUCCESSFUL (total time: 3 minutes 37 seconds)
