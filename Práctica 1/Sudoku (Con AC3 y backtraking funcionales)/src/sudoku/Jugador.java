@@ -7,7 +7,7 @@ package sudoku;
 /**
  *
  * @author Sistemas Inteligentes
- * @author ALEJANDRO REYES ALBILLAR 45931406-S ara65@alu.ua.es
+ * @author ALEJANDRO REYES ALBILLAR  ara65@alu.ua.es
  */
 public class Jugador {
 

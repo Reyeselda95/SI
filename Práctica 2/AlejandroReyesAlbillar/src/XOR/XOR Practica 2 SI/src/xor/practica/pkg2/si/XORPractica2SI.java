@@ -12,7 +12,7 @@ import org.neuroph.nnet.Perceptron;
 
 /**
  *
- * @author ALEANDRO REYES ALBILLAR 45931406-S
+ * @author ALEANDRO REYES ALBILLAR 
  */
 public class XORPractica2SI {
 

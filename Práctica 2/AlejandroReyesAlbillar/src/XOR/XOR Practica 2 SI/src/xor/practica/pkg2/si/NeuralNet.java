@@ -20,7 +20,7 @@ import org.neuroph.util.TransferFunctionType;
 
 /**
  *
- * @author ALEANDRO REYES ALBILLAR 45931406-S
+ * @author ALEANDRO REYES ALBILLAR 
  */
 public class NeuralNet implements LearningEventListener {
     public NeuralNet(int inputSize, int hiddenLayerSize, int outputSize){
